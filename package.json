@@ -1,7 +1,7 @@
 {
   "name": "express-statsd",
   "description": "Statsd route monitoring middleware for connect/express",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "homepage": "https://github.com/boomtrain/express-statsd",
   "repository": {
     "type": "git",
